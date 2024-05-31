@@ -1,5 +1,7 @@
-## Hi there 👋
-
+-## Hi, I'm Miora Michelle 👋
+- 😄 Dediacate CS student
+- 🌱 I am highly attentive
+- ⚡ I love challenges and enjoy taking on new ones.
 <!--
 **MioraMichellee/MioraMichellee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-
