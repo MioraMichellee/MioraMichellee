@@ -1,4 +1,4 @@
--## Hi, I'm Miora Michelle 👋
+Hi, I'm Miora Michelle 👋
 - 😄 Dediacate CS student
 - 🌱 I am highly attentive
 - ⚡ I love challenges and enjoy taking on new ones.
