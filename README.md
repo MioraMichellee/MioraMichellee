@@ -12,6 +12,8 @@ Hi, I'm Miora Michelle 👋
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MioraMichellee&layout=compact&langs_count=8&card_width=320" />
 </a>-->
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p align="center">
     <a href="https://ossinsight.io/analyze/MioraMichellee">
         <picture>
