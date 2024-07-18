@@ -11,7 +11,7 @@ Hi, I'm Miora Michelle 👋
 <!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MioraMichellee" /> -->
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MioraMichellee&layout=compact&langs_count=8&card_width=320" /> -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MioraMichellee&layout=compact&langs_count=8&card_width=320" />
 </a>
 </p>
     <a href="https://ossinsight.io/analyze/MioraMichellee">
