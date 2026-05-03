@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mioramichellee.vercel.app/">[ VISITER LE PORTFOLIO ]</a>
+  <a href="https://mioramichellee.vercel.app/"><b>[ PORTFOLIO ]</b></a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="mailto:mioramichelle.pro@gmail.com"><b>[ CONTACT ]</b></a>
 </p>
 
 ---
